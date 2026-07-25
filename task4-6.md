@@ -10,7 +10,7 @@
 ![サワヤン](20C1FD15-B218-4D21-96E0-7805A419FBF7.jpg)
 ![Siri](IMG_2033.jpeg)
 #### 参考リンク
-もっと**HTML**を勉強したい方はこちら
+もっとHTMLを勉強したい方はこちら
 [Mozilla公式サイト](https://mozilla.org)
 ---
 © 2026 沖縄太郎. All Rights Reserved.
